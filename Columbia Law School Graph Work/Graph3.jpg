@@ -1,0 +1,16 @@
+graph {
+	node [fillcolor=red height=4 shape=circle style=filled]
+	"Operation BOYONA"
+	node [fillcolor=white height=0.02 shape=oval style=filled]
+		"Operation BOYONA" -- "2 Mechanised Division" [color=green]
+		"Operation BOYONA" -- "9 Brigade" [color=green]
+		"Operation BOYONA" -- "322 Artillery Regiment" [color=green]
+		"Operation BOYONA" -- "3 Armoured Division" [color=green]
+		"Operation BOYONA" -- "1 Mechanised Division" [color=green]
+		"Operation BOYONA" -- "82 Mechanised Battalion" [color=green]
+		"Operation BOYONA" -- "75 Strike Group" [color=green]
+		"Operation BOYONA" -- "22 Battalion" [color=green]
+		"Operation BOYONA" -- "72 Special Forces Battalion" [color=green]
+		"Operation BOYONA" -- "22 Armoured Brigade" [color=green]
+		"Operation BOYONA" -- "174 Battalion" [color=green]
+}

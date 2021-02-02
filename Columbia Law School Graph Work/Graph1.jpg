@@ -1,0 +1,19 @@
+graph {
+	node [fillcolor=red height=4 shape=circle style=filled]
+	"1 Mechanised Division"
+	node [fillcolor=white height=0.02 shape=oval style=filled]
+		"Adeniyi Oyabade" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"1 Mechanised Division" -- "Operation BOYONA" [color=green headlabel="Last Confirmed: March 18, 2016."]
+		"1 Mechanised Division" -- "Operation Sharan Daji" [color=green headlabel="Last Confirmed: March 18, 2016."]
+		"1 Mechanised Division" -- Kaduna [color=blue headlabel="Location:"]
+		"Azubuike Onyeabo Ihejirika" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel="Director of Engineering, Commander"]
+		"DRA Ndefo" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"Garba Ayodele Wahab" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"Joseph Shoboiki" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"Kamaldeen Role" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"Kenneth Osuji" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"Lawrence Jokotola" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"Moses Obi" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel="Commander, Chief of Operations"]
+		"Owoye Andrew Azazi" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+		"SA Asemota" -- "1 Mechanised Division" [color=red lblstyle="above, sloped" taillabel=Commander]
+}
